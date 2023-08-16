@@ -1,1 +1,7 @@
 data/history.csv filter=lfs diff=lfs merge=lfs -text
+data/market_cap.csv filter=lfs diff=lfs merge=lfs -text
+data/factor/*.csv filter=lfs diff=lfs merge=lfs -text
+inter_data/expected_rets.csv filter=lfs diff=lfs merge=lfs -text
+inter_data/residual_rets.csv filter=lfs diff=lfs merge=lfs -text
+inter_data/weights_optimize.csv filter=lfs diff=lfs merge=lfs -text
+inter_data/factor_rets.csv filter=lfs diff=lfs merge=lfs -text
