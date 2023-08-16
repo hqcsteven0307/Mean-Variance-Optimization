@@ -1,0 +1,1 @@
+exclude_codes = ['990018.XSHG']
